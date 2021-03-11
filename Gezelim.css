@@ -1,0 +1,59 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(20, 20, 22);
+}
+
+body {
+  background-image: url(C:\Users\bilun\Desktop\Coding\gigem-14\Images\gezelim.jpg);
+  background-color: rgb(10, 4, 41);
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.button{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background-color: #3a6dafb2;
+    border: none;
+    border-radius: 25%;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+   margin: 0;
+   padding: 0;
+  }
+  .logo {
+    float: left;
+    width: 100px;
+    height: 50px;
+    margin: 0px 0px;
+}
